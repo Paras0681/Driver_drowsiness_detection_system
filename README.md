@@ -48,4 +48,3 @@ python blinkDetect.py
 # If the count increase raises an alert!!
 ![Output5](https://user-images.githubusercontent.com/77244089/130503718-5864f967-22a5-4b44-a036-ee5f3f6079b1.png)
 ![Output6](https://user-images.githubusercontent.com/77244089/130503719-0854b189-2e38-4dc8-8f37-677d38bdb7f9.png)
->>>>>>> 1acc3af08238ed72ae3360a5e47b2abb15d57d25
